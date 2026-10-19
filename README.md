@@ -29,10 +29,10 @@ Projekt można uruchomić na dwa sposoby:
 # prolog-zakupy - [EN]
 Smart Grocery Assistant & Recipe Recommendation Engine built with Prolog (SWI-Prolog).
 
-## 📋 Project Description
+## Project Description
 This project implements an interactive smart shopping cart system in Prolog. It enables users to select products from various categories (vegetables, fruits, dairy, meat, bakery, beverages, snacks, grain products), calculates the total cost, and dynamically recommends meal recipes along with missing ingredients based on the current contents of the cart.
 
-## 🚀 How to Run
+## How to Run
 
 You can run the project in two ways:
 
